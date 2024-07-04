@@ -1,0 +1,1 @@
+﻿CREATE SCHEMA [Module1] AUTHORIZATION [dbo]

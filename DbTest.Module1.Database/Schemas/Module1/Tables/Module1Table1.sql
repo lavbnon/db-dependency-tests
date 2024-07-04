@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Module1].[Module1Table1]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY 
+)
